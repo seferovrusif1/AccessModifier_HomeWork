@@ -1,0 +1,14 @@
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\bin\Debug\net6.0\AccessModifiers_HomeWork.exe
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\bin\Debug\net6.0\AccessModifiers_HomeWork.deps.json
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\bin\Debug\net6.0\AccessModifiers_HomeWork.runtimeconfig.json
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\bin\Debug\net6.0\AccessModifiers_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\bin\Debug\net6.0\AccessModifiers_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.AssemblyInfoInputs.cache
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.AssemblyInfo.cs
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\refint\AccessModifiers_HomeWork.dll
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.pdb
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\AccessModifiers_HomeWork.genruntimeconfig.cache
+C:\Users\sefer\OneDrive\Desktop\AccessModifiers_HomeWork\AccessModifiers_HomeWork\obj\Debug\net6.0\ref\AccessModifiers_HomeWork.dll
